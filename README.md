@@ -1,5 +1,10 @@
-## Hi there 👋
+### Hi there 👋 I'm Sylvia Vitner,
 
+#### An enthusiatic Computer Science student at Appalachian State University pursuing my Data Science Certification 📈.
+
+- 🌱 I’m currently learning SQL, C, and HTML/CSS for university courses and personal interests.
+- 🔭 I’m currently working on refining a Discord bot to maintain attendance and club member data using a MySQL database.
+- 💬 Ask me about snowboarding, Pokémon, animation, movies
 <!--
 **sylviavitner/sylviavitner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
