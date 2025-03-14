@@ -1,7 +1,7 @@
 # 💫 About Me:
-- 🔭 Studying Computer Science with a focus in Data Science at Appalachian State University.<br>
-- 🤖 Currently refining a Discord bot that manages attendance and club member data using MySQL.<br>
-- ⚡ I strongly believe in data privacy 🔐, open source, automation, and innovation 💡.<br>
+- 🔭 Pursuing a B.S. in **Computer Science** with a focus in **Data Science** at **Appalachian State University**.<br>
+- 🤖 Currently refining a **Discord bot** that manages attendance and club member data using **MySQL**.<br>
+- ⚡ I strongly believe in **data privacy** 🔐, **open source**, **automation**, and **innovation** 💡.<br>
 - 💬 Always up to chat about snowboarding 🏂, Pokémon, animation, or movies! 🎥
 
 
