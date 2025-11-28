@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Sylvia
 ## 💫 About Me:
 - 🔭 Pursuing a **B.S. in Computer Science** and **Data Science Certification** at **Appalachian State University**.<br>
-- 🤖 Currently refining a **Discord bot** that manages attendance and club member data using **MySQL**.<br>
-- ⚡ Strong advocate for **data privacy**, **open source**, **automation**, and **innovation**.<br>
+- 🤖 Currently working on a **Web Scraper** that collects Pokémon card data for modeling with **Scrapy** and **Matplotlib**.<br>
+- 🧑‍🚀 Part-time FinOps Analyst at Vega Cloud.<br>
 - 💬 Always up for a chat about snowboarding, golf, Pokémon, animation, and movies!
 
 
@@ -18,4 +18,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=sylviavitner&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with https://gprm.itsvg.in >
+<!-- Partially created with gprm >
